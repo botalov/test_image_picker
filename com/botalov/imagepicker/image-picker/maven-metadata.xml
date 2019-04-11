@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.botalov.imagepicker</groupId>
+  <artifactId>image-picker</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190411055705</lastUpdated>
+  </versioning>
+</metadata>
