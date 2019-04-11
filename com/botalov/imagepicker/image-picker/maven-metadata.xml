@@ -3,9 +3,11 @@
   <groupId>com.botalov.imagepicker</groupId>
   <artifactId>image-picker</artifactId>
   <versioning>
+    <release>1.0.1</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20190411055705</lastUpdated>
+    <lastUpdated>20190411061259</lastUpdated>
   </versioning>
 </metadata>
